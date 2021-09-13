@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "firebase": "^8.7.1",
+    "npm": "^7.19.1",
+    "react-flip-move": "^3.0.4",
+    "react-twitter-embed": "^3.0.3"
+  }
+}
